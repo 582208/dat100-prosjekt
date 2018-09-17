@@ -2,7 +2,7 @@ package no.hvl.dat100.prosjekt;
 
 import java.io.*;
 
-public class GPSDataReaderWriter {
+public class GPSDataReaderWriter 
 
 	// entry separator in CSV files
 	private static String SEP_STR = ",";
